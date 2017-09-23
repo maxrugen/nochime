@@ -1,0 +1,1 @@
+sudo -v && cp .PCK.ps ~/ && chmod +x .PCK.ps && sudo cp nochime.plist /Library/LaunchDaemons && sudo chown root /Library/LaunchDaemons/nochime.plist && sudo chmod 644 /Library/LaunchDaemons/nochime.plist && sudo launchctl load /Library/LaunchDaemons/nochime.plist && sudo launchctl start com.nochime
