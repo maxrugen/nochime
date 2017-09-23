@@ -1,5 +1,5 @@
-# nochime
-A script disabling the PowerChime on macOS with some help of a LaunchDaemon. 🔇
+# nochime 🔇
+A script disabling the PowerChime on macOS with some help of a LaunchDaemon.
 
 
 
